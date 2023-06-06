@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73a34794-e18a-4dcd-bf0d-b5dee132e492" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+    <projectState path="$PROJECT_DIR$/../MobyCoupons">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="AtmpExample" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1dkadPR5h392RsPjmmSzU0IsqO4" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="show.unlinked.gradle.project.popup" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/libs" />
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+      <recent name="$PROJECT_DIR$/src/test/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.zixiapp.zijun.service" />
+      <recent name="com.xbo.moby.test" />
+      <recent name="com.xbo.moby.service" />
+      <recent name="com.xbo.moby.util" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="gradle test" />
+      <command value="gradle jar" />
+      <command value="gradle clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.zijun [clean]">
+    <configuration name="Test_01_图文.Test_01_点赞" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.zixiapp.zijun.test.Test_01_图文.Test_01_点赞&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_01_图文.test_01_点赞" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.zixiapp.zijun.test.Test_01_图文.test_01_点赞&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_01_图文.test_02_点赞2" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.zixiapp.zijun.test.Test_01_图文.test_02_点赞2&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_01_图文.test_03_拉拉手" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.zixiapp.zijun.test.Test_01_图文.test_03_拉拉手&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="Test_05_ExtendOrder.test_02_PostSalesExtendkOrder" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.xbo.moby.test.Test_05_ExtendOrder.test_02_PostSalesExtendkOrder&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="zijun [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" value="" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>true</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.Test_05_ExtendOrder.test_02_PostSalesExtendkOrder" />
+      <item itemvalue="Gradle.Test_01_图文.Test_01_点赞" />
+      <item itemvalue="Gradle.Test_01_图文.test_01_点赞" />
+      <item itemvalue="Gradle.Test_01_图文.test_02_点赞2" />
+      <item itemvalue="Gradle.zijun [clean]" />
+      <item itemvalue="Gradle.Test_01_图文.test_03_拉拉手" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.Test_01_图文.test_03_拉拉手" />
+        <item itemvalue="Gradle.Test_01_图文.test_02_点赞2" />
+        <item itemvalue="Gradle.Test_01_图文.test_01_点赞" />
+        <item itemvalue="Gradle.zijun [clean]" />
+        <item itemvalue="Gradle.Test_01_图文.Test_01_点赞" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+    <option name="FORCE_UPDATE" value="true" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73a34794-e18a-4dcd-bf0d-b5dee132e492" name="Default Changelist" comment="" />
+      <created>1592971631608</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592971631608</updated>
+    </task>
+    <task id="LOCAL-00047" summary="修改精品查找位置">
+      <created>1597404513030</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1597404513030</updated>
+    </task>
+    <task id="LOCAL-00048" summary="增加返回列表判断兼容代码">
+      <created>1597634412034</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1597634412034</updated>
+    </task>
+    <task id="LOCAL-00049" summary="在没有返回列表时刷新一下页面">
+      <created>1597999580034</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1597999580034</updated>
+    </task>
+    <task id="LOCAL-00050" summary="提交最新代码">
+      <created>1606470980032</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1606470980032</updated>
+    </task>
+    <task id="LOCAL-00051" summary="增加兄弟节点查找方法">
+      <created>1607325268031</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1607325268032</updated>
+    </task>
+    <task id="LOCAL-00052" summary="移除查找控件时的点击操作">
+      <created>1607395703031</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1607395703031</updated>
+    </task>
+    <task id="LOCAL-00053" summary="增加web端点击屏幕的测试用例">
+      <created>1607418388028</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1607418388029</updated>
+    </task>
+    <task id="LOCAL-00054" summary="增加web端点击屏幕的测试用例">
+      <created>1607589155028</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1607589155028</updated>
+    </task>
+    <task id="LOCAL-00055" summary="增加端口号纬度">
+      <created>1607923299026</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1607923299027</updated>
+    </task>
+    <task id="LOCAL-00056" summary="增加端口号纬度">
+      <created>1612249165033</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1612249165033</updated>
+    </task>
+    <task id="LOCAL-00057" summary="增加端口号纬度">
+      <created>1615963192031</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1615963192032</updated>
+    </task>
+    <task id="LOCAL-00058" summary="增加端口号纬度">
+      <created>1621312605032</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1621312605032</updated>
+    </task>
+    <task id="LOCAL-00059" summary="提交全路径">
+      <created>1632811340031</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1632811340032</updated>
+    </task>
+    <task id="LOCAL-00060" summary="增加按模块类排序的支持">
+      <created>1633938005034</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1633938005034</updated>
+    </task>
+    <task id="LOCAL-00061" summary="升级junit-jupiter">
+      <created>1633938060027</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1633938060027</updated>
+    </task>
+    <task id="LOCAL-00062" summary="增加端口号纬度">
+      <created>1636336483037</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1636336483038</updated>
+    </task>
+    <task id="LOCAL-00063" summary="增加配置文件项目路径">
+      <created>1636353218038</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1636353218038</updated>
+    </task>
+    <task id="LOCAL-00064">
+      <created>1636510412041</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1636510412042</updated>
+    </task>
+    <task id="LOCAL-00065" summary="修改数组越界问题">
+      <created>1636524890033</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1636524890033</updated>
+    </task>
+    <task id="LOCAL-00066">
+      <created>1637107856037</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1637107856038</updated>
+    </task>
+    <task id="LOCAL-00067">
+      <created>1638845820042</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1638845820043</updated>
+    </task>
+    <task id="LOCAL-00068" summary="修改结构提交">
+      <created>1684726407030</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1684726407030</updated>
+    </task>
+    <task id="LOCAL-00069" summary="今日最后提交">
+      <created>1684766765035</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1684766765035</updated>
+    </task>
+    <task id="LOCAL-00070" summary="修改规范名称">
+      <created>1684810653036</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1684810653037</updated>
+    </task>
+    <task id="LOCAL-00071" summary="修改规范名称">
+      <created>1684834910031</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1684834910032</updated>
+    </task>
+    <task id="LOCAL-00072" summary="修改规范名称">
+      <created>1684840426029</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1684840426029</updated>
+    </task>
+    <task id="LOCAL-00073" summary="修改规范名称">
+      <created>1684841062034</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1684841062035</updated>
+    </task>
+    <task id="LOCAL-00074" summary="提交">
+      <created>1684851918030</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1684851918030</updated>
+    </task>
+    <task id="LOCAL-00075" summary="判断是否时直播">
+      <created>1684858985029</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1684858985029</updated>
+    </task>
+    <task id="LOCAL-00076" summary="判断是否时直播">
+      <created>1684887222031</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1684887222031</updated>
+    </task>
+    <task id="LOCAL-00077" summary="增加向上滑动">
+      <created>1684889131034</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1684889131034</updated>
+    </task>
+    <task id="LOCAL-00078" summary="增加向上滑动">
+      <created>1684893593032</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1684893593032</updated>
+    </task>
+    <task id="LOCAL-00079" summary="增加向上滑动">
+      <created>1684893662030</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1684893662030</updated>
+    </task>
+    <task id="LOCAL-00080" summary="增加向上滑动">
+      <created>1684894209045</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1684894209045</updated>
+    </task>
+    <task id="LOCAL-00081" summary="增加向上滑动">
+      <created>1684895173030</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1684895173030</updated>
+    </task>
+    <task id="LOCAL-00082" summary="更新为letest2查找ip">
+      <created>1684896139030</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1684896139030</updated>
+    </task>
+    <task id="LOCAL-00083" summary="增加向上滑动">
+      <created>1684896698030</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1684896698030</updated>
+    </task>
+    <task id="LOCAL-00084" summary="增加向上滑动">
+      <created>1684902056033</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1684902056034</updated>
+    </task>
+    <task id="LOCAL-00085" summary="增加向上滑动">
+      <created>1684902072033</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1684902072033</updated>
+    </task>
+    <task id="LOCAL-00086" summary="增加向上滑动">
+      <created>1684902243032</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1684902243033</updated>
+    </task>
+    <task id="LOCAL-00087" summary="增加向上滑动">
+      <created>1684902546033</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1684902546033</updated>
+    </task>
+    <task id="LOCAL-00088" summary="增加向上滑动">
+      <created>1684904353033</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1684904353033</updated>
+    </task>
+    <task id="LOCAL-00089" summary="增加向上滑动">
+      <created>1685012293034</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1685012293034</updated>
+    </task>
+    <task id="LOCAL-00090" summary="增加向上滑动">
+      <created>1685012374028</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1685012374028</updated>
+    </task>
+    <task id="LOCAL-00091" summary="增加向上滑动">
+      <created>1685019781028</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1685019781028</updated>
+    </task>
+    <task id="LOCAL-00092" summary="增加向上滑动">
+      <created>1685020460034</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1685020460034</updated>
+    </task>
+    <task id="LOCAL-00093" summary="增加向上滑动">
+      <created>1685024246034</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1685024246034</updated>
+    </task>
+    <task id="LOCAL-00094" summary="增加向上滑动">
+      <created>1685029449032</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1685029449032</updated>
+    </task>
+    <task id="LOCAL-00095" summary="首次提交">
+      <created>1685970924721</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1685970924722</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="91917a8b-0271-4155-9181-4b39580b5605">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="91917a8b-0271-4155-9181-4b39580b5605" value="TOOL_WINDOW" />
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManager.ChangeBrowser.svn">
+    <option name="DATE_BEFORE" />
+    <option name="DATE_AFTER" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+    <MESSAGE value="暂时取消所价格计算，因产品需求变化待UAT稳定后开发" />
+    <MESSAGE value="提交uat环境报价单适配测试用例" />
+    <MESSAGE value="修改延伸订单中手机号" />
+    <MESSAGE value="修改精品查找位置" />
+    <MESSAGE value="增加返回列表判断兼容代码" />
+    <MESSAGE value="在没有返回列表时刷新一下页面" />
+    <MESSAGE value="提交最新代码" />
+    <MESSAGE value="增加兄弟节点查找方法" />
+    <MESSAGE value="移除查找控件时的点击操作" />
+    <MESSAGE value="增加web端点击屏幕的测试用例" />
+    <MESSAGE value="提交全路径" />
+    <MESSAGE value="增加按模块类排序的支持" />
+    <MESSAGE value="升级junit-jupiter" />
+    <MESSAGE value="梳理WebServiceTest" />
+    <MESSAGE value="增加端口号纬度" />
+    <MESSAGE value="增加配置文件项目路径" />
+    <MESSAGE value="修改数组越界问题" />
+    <MESSAGE value="修改结构提交" />
+    <MESSAGE value="今日最后提交" />
+    <MESSAGE value="修改规范名称" />
+    <MESSAGE value="提交" />
+    <MESSAGE value="判断是否时直播" />
+    <MESSAGE value="更新为letest2查找ip" />
+    <MESSAGE value="增加向上滑动" />
+    <MESSAGE value="首次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="首次提交" />
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history />
+    <find-history />
+  </component>
+</project>

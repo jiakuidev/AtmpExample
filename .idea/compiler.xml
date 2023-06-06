@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.8">
+      <module name="MobyComm.main" target="1.8" />
+      <module name="MobyComm.test" target="1.8" />
+      <module name="MobyCoup.main" target="1.8" />
+      <module name="MobyCoup.test" target="1.8" />
+      <module name="MobyCoupns.main" target="1.8" />
+      <module name="MobyCoupns.test" target="1.8" />
+      <module name="MobyCoupons.main" target="1.8" />
+      <module name="MobyCoupons.test" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
